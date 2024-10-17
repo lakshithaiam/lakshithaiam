@@ -1,36 +1,17 @@
-# Hi there, I'm Lakshithaiam 👋
+<h1 align="center">Hi 👋, I'm lakshitha</h1>
+<h3 align="center">"DevOps Intern | Learning Cloud Technologies | Exploring Kubernetes"</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshithaiam&color=blue)
+- 🔭 I’m currently working on [11-Tier Microservices Application - Online Boutique CI-CD](https://github.com/lakshithaiam/MicroserviceApp)
 
-## 🚀 About Me
-I'm a passionate developer with a keen interest in DevOps, Cloud Computing, and Web Development. I love building efficient and scalable applications and automating workflows to streamline processes.
+- 🌱 I’m currently learning **Cloud Technologies, CI/CD and Microservices**
 
-## 🌱 Currently Learning
-- Kubernetes and Docker
-- Terraform and Ansible
-- CI/CD pipelines with Jenkins
-- Cloud Platforms (AWS, GCP)
+- 📫 How to reach me **lakshithaiam@gmail.com**
 
-## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, React
-- **DevOps Tools**: Jenkins, Docker, Kubernetes, Terraform, Ansible
-- **Cloud Providers**: AWS, GCP
-- **Databases**: MySQL, PostgreSQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lakshithaiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshithaiam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/lakshithaiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakshithaiam" height="30" width="40" /></a>
+</p>
 
-## 🌟 Projects
-- **E-commerce Website**: Developed an e-commerce platform with features like user authentication, product management, and payment integration. [View Project](https://github.com/lakshithaiam/ecommerce-website)
-- **Microservices Architecture**: Designed and implemented microservices for scalable applications using Docker and Kubernetes.
-- **CI/CD Pipeline**: Set up CI/CD pipelines with Jenkins for automated deployment and testing of applications.
-
-## 📫 How to Reach Me
-- **LinkedIn**: [lakshithaiam](https://www.linkedin.com/in/lakshithaiam/)
-- **Email**: lakshithaiam@gmail.com
-- **GitHub**: [lakshithaiam](https://github.com/lakshithaiam)
-
-## 📊 GitHub Stats
-![Lakshithaiam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshithaiam&show_icons=true&theme=radical)
-
-## ⚡ Fun Fact
-I love learning new technologies and am always looking for ways to improve my skills and knowledge!
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
