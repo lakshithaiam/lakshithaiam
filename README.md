@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lakshitha</h1>
-<h3 align="center">"DevOps Intern | Learning Cloud Technologies | Exploring Kubernetes"</h3>
+<h3 align="center">"DevOps | Learning Cloud Technologies | Exploring Kubernetes"</h3>
 
 - 🔭 I’m currently working on [11-Tier Microservices Application - Online Boutique CI-CD](https://github.com/lakshithaiam/MicroserviceApp)
 
