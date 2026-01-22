@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm lakshitha</h1>
 <h3 align="center">"DevOps | Learning Cloud Technologies | Exploring Kubernetes"</h3>
 
-- 🔭 I’m currently working on [11-Tier Microservices Application - Online Boutique CI-CD](https://github.com/lakshithaiam/MicroserviceApp)
-
-- 🌱 I’m currently learning **Cloud Technologies, CI/CD and Microservices**
+- 🔭 I’m a DevOps enthusiast with a strong interest in cloud-native technologies and infrastructure automation. I have hands-on experience automating deployments and managing cloud infrastructure using tools such as AWS, Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Argo CD, and Istio to improve system reliability and operational efficiency.
 
 - 📫 How to reach me **lakshithaiam@gmail.com**
 
